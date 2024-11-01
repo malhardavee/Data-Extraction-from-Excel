@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Step 1: Read the Excel file
-excel_file = 'Student_Data.xlsx'
+excel_file = 'C:\Users\Malhar\Desktop\BTECH CS\THIRD YEAR\MINI PROJECT - I\Student_Data.xlsx'
 df = pd.read_excel(excel_file)
 
 # Step 2: Convert the DataFrame to a JSON format
