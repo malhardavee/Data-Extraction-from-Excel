@@ -1,0 +1,44 @@
+{
+  "Student Data": [
+    {
+      "StudentID": 1,
+      "Name": "John Doe",
+      "Roll No.": 9985740,
+      "Email": "johnd@gmail.com",
+      "Subject": "Discrete Mathematics",
+      "Enrollment Number": "MITU123456"
+    },
+    {
+      "StudentID": 2,
+      "Name": "Jane Smith",
+      "Roll No.": 9513247,
+      "Email": "jane@outlook.com",
+      "Subject": "Operating Systems",
+      "Enrollment Number": "MITU112233"
+    },
+    {
+      "StudentID": 3,
+      "Name": "Rohan Patel",
+      "Roll No.": 1235478,
+      "Email": "rohan.patel@yahoo.com",
+      "Subject": "Data Structures",
+      "Enrollment Number": "MITU456987"
+    },
+    {
+      "StudentID": 4,
+      "Name": "Raj Singh",
+      "Roll No.": 2567890,
+      "Email": "raj.singh@icloud.com",
+      "Subject": "Design Thinking",
+      "Enrollment Number": "MITU321456"
+    },
+    {
+      "StudentID": 5,
+      "Name": "Sanya Iyer",
+      "Roll No.": 2678901,
+      "Email": "iyersanya@gmail.com",
+      "Subject": "Machine Learning",
+      "Enrollment Number": "MITU951753"
+    }
+  ]
+}
